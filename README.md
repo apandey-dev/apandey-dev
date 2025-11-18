@@ -21,21 +21,8 @@ I love exploring modern technologies, especially the **MERN Stack**, and enjoy t
 
 ### 🎓 Education
 - **Bachelor of Computer Applications (BCA)**  
-  *2023 – 2026 | [Your College Name]*  
+  *2023 – 2026 | JB Knowledge *  
   Focus: Web Development, Programming, Database Systems, and Software Design  
-
----
-
-### 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **Portfolio Website** | My personal portfolio showcasing projects, skills, and contact info. | HTML, CSS, JS |
-| **Food Ordering System** | A responsive food ordering website with menu, login/signup, and admin panel. | HTML, CSS, JS, LocalStorage |
-| **School Management System** | Web-based system for managing students, teachers, and admin operations. | HTML, CSS, JS |
-| **Mini Frontend Projects** | Collection of 20+ creative web mini projects. | HTML, CSS, JS |
-
-🧭 *Explore all projects on my [GitHub Repositories](https://github.com/apandey-dev?tab=repositories)*  
 
 ---
 
@@ -56,20 +43,6 @@ I love exploring modern technologies, especially the **MERN Stack**, and enjoy t
 </p>
 
 ---
-
-### 🧩 Currently Exploring
-- 📚 **Next.js & TypeScript**
-- 🧠 **Machine Learning Basics**
-- 🧩 **Advanced React Animations**
-- ⚙️ **REST APIs & Authentication**
-
----
-
-### 🎯 My Interests
-- 🎨 Designing creative UI/UX interfaces  
-- 🎬 Watching tech videos & coding tutorials  
-- 🧩 Building small fun projects for learning  
-- ☕ Coffee + Code = Productivity 💻  
 
 ---
 
