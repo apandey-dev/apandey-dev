@@ -1,62 +1,97 @@
 <!-- 🌊 HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=230&section=header&text=Hi,%20I'm%20Arpit%20Pandey!&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Frontend%20Developer%20|%20BCA%20Student%20|%20MERN%20Stack%20Enthusiast&descSize=22&descAlignY=70" />
-
-I'm **Arpit Pandey**, a 3rd-year **BCA student** and **Frontend Developer** passionate about creating beautiful, functional, and user-friendly web experiences.  
-I love exploring modern technologies, especially the **MERN Stack**, and enjoy turning ideas into interactive digital realities.  
-
-💡 *“Turning ideas into interactive realities — one line of code at a time.”*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:020617&height=230&section=header&text=Hi,%20I'm%20Arpit%20Pandey!&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Flutter%20App%20Developer%20|%20BCA%20Student%20|%20Cross-Platform%20Enthusiast&descSize=22&descAlignY=70" />
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 👋 About Me
 
-### 👨‍💻 About Me
-- 🎓 **BCA (3rd Year)** student passionate about Web Development  
-- 💻 Skilled in **HTML, CSS, JavaScript, React, Node.js, and MongoDB**  
-- 🌱 Currently learning **Next.js** and exploring **AI-powered web applications**  
-- 🚀 Focused on building responsive, interactive, and creative web projects  
-- 🎯 Goal: To become a **Full Stack Developer** and contribute to impactful projects  
+I'm **Arpit Pandey**, a **BCA student** and **Flutter App Developer** passionate about building **high-performance, scalable, and user-friendly mobile applications**.
+
+I enjoy working with **Flutter & Dart** to create cross-platform apps and use **JavaScript, HTML, CSS, and Python** to strengthen my development fundamentals and tooling ecosystem.
+
+💡 *“Building apps that feel smooth, look clean, and solve real problems.”*
 
 ---
 
-### 🎓 Education
+<img align="right" alt="App Development" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+## 👨‍💻 What I Do
+
+- 📱 Build **cross-platform mobile apps** using **Flutter & Dart**
+- 🎨 Design **clean, responsive, and modern UIs**
+- 🔗 Work with **Firebase, SQLite & REST APIs**
+- 🌐 Strong foundation in **JavaScript, HTML & CSS**
+- 🐍 Use **Python** for scripting & logic building
+- ⚙️ Focus on performance, usability & scalability
+
+---
+
+## 🎓 Education
+
 - **Bachelor of Computer Applications (BCA)**  
-  *2023 – 2026 | JB Knowledge *  
-  Focus: Web Development, Programming, Database Systems, and Software Design  
+  *2023 – 2026*  
+  **JB Knowledge Park**  
+  Focus: App Development, Web Technologies, Databases & Software Engineering
 
 ---
 
-### 🧠 Skills
+## 🧠 Tech Stack
+
+### 📱 App Development
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp,python&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite&theme=light" />
+</p>
+
+### 🌐 Web & Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=light" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma,vercel&theme=light" />
 </p>
 
 ---
 
-### ⚙️ Tools I Use
+## 🚀 Featured Skills
+
+- ✅ Flutter UI Development & Widget Architecture  
+- ✅ Cross-Platform App Development  
+- ✅ Local Databases (SQLite)  
+- ✅ Firebase Authentication & Storage  
+- ✅ REST API Integration  
+- ✅ Responsive Design Principles  
+- ✅ Version Control with Git & GitHub  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,vercel,windows,git,github&theme=light" />
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=apandey-dev&show_icons=true&theme=react&hide_border=false" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=apandey-dev&theme=react&hide_border=false" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apandey-dev&layout=compact&langs_count=8&theme=react&hide_border=false" />
 </p>
 
 ---
 
----
-
-### 📊 GitHub Statistics
+## 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=apandey-dev&theme=react&show_icons=true&hide_border=false" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=apandey-dev&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apandey-dev&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages" />
+  <img src="https://ghchart.rshah.org/0284c7/apandey-dev" alt="GitHub Contribution Calendar" />
+</p>
+
+<p align="center">
+  <i>Consistent contributions across public and private projects.</i>
 </p>
 
 ---
 
-## 🏆 Top Contributed Repositories
+## 🏆 Contribution Highlights
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=apandey-dev&limit=5&theme=react&combine_all_yearly_contributions=true" />
@@ -64,30 +99,26 @@ I love exploring modern technologies, especially the **MERN Stack**, and enjoy t
 
 ---
 
-### 📬 Connect with Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:arpitpandey9046@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/juss.erty">
-    <img src="https://img.shields.io/badge/-@juss.erty-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-dc2626?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/apandey9046/">
-    <img src="https://img.shields.io/badge/-apandey9046-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0284c7?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/apandey-dev">
-    <img src="https://img.shields.io/badge/-apandey--dev-000000?style=flat&labelColor=000000&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-020617?style=flat&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=apandey-dev&color=blue&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/apandey-dev?label=GitHub%20Followers" />
+  <img src="https://komarev.com/ghpvc/?username=apandey-dev&color=0284c7&label=Profile%20Views"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code is not just logic — it’s the art of bringing ideas to life.”</i> ✨
+  <i>“Great apps aren’t just built — they’re crafted.”</i> 🚀
 </p>
 
 <!-- 🌊 FOOTER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0284c7&height=180&section=footer" />
