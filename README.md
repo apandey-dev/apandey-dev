@@ -1,28 +1,35 @@
 <!-- 🌊 HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:020617&height=230&section=header&text=Hi,%20I'm%20Arpit%20Pandey!&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Flutter%20App%20Developer%20|%20BCA%20Student%20|%20Cross-Platform%20Enthusiast&descSize=22&descAlignY=70" />
 
+<!-- 🧠 TYPING TAGLINE -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Cross-Platform+Mobile+Apps;Flutter+%7C+Dart+%7C+JavaScript+%7C+Python;Turning+Ideas+into+Real-World+Apps" alt="Typing SVG" />
+  </a>
+</div>
+
 ---
 
 ## 👋 About Me
 
-I'm **Arpit Pandey**, a **BCA student** and **Flutter App Developer** passionate about building **high-performance, scalable, and user-friendly mobile applications**.
+I'm **Arpit Pandey**, a **BCA student** and **Flutter App Developer** passionate about building **scalable, high-performance, and visually polished mobile applications**.
 
-I enjoy working with **Flutter & Dart** to create cross-platform apps and use **JavaScript, HTML, CSS, and Python** to strengthen my development fundamentals and tooling ecosystem.
+I work primarily with **Flutter & Dart** and complement my app development skills with **JavaScript, HTML, CSS, and Python** to create complete, well-structured solutions.
 
-💡 *“Building apps that feel smooth, look clean, and solve real problems.”*
+💡 *“Clean code, smooth UI, and meaningful user experiences.”*
 
 ---
 
-<img align="right" alt="App Development" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding Animation" width="380" src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" />
 
 ## 👨‍💻 What I Do
 
 - 📱 Build **cross-platform mobile apps** using **Flutter & Dart**
-- 🎨 Design **clean, responsive, and modern UIs**
-- 🔗 Work with **Firebase, SQLite & REST APIs**
-- 🌐 Strong foundation in **JavaScript, HTML & CSS**
-- 🐍 Use **Python** for scripting & logic building
-- ⚙️ Focus on performance, usability & scalability
+- 🎨 Design **clean, modern, and responsive UIs**
+- 🔗 Integrate **Firebase, SQLite, and REST APIs**
+- 🌐 Apply strong fundamentals of **JavaScript, HTML & CSS**
+- 🐍 Use **Python** for scripting, automation, and logic
+- ⚙️ Focus on performance, scalability, and code quality
 
 ---
 
@@ -58,11 +65,11 @@ I enjoy working with **Flutter & Dart** to create cross-platform apps and use **
 
 - ✅ Flutter UI Development & Widget Architecture  
 - ✅ Cross-Platform App Development  
+- ✅ Firebase Authentication & Cloud Storage  
 - ✅ Local Databases (SQLite)  
-- ✅ Firebase Authentication & Storage  
 - ✅ REST API Integration  
 - ✅ Responsive Design Principles  
-- ✅ Version Control with Git & GitHub  
+- ✅ Git & GitHub Workflow  
 
 ---
 
@@ -82,11 +89,11 @@ I enjoy working with **Flutter & Dart** to create cross-platform apps and use **
 ## 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0284c7/apandey-dev" alt="GitHub Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/38BDF8/apandey-dev" alt="GitHub Contribution Calendar" />
 </p>
 
 <p align="center">
-  <i>Consistent contributions across public and private projects.</i>
+  <i>Daily progress through public and private contributions.</i>
 </p>
 
 ---
@@ -111,13 +118,13 @@ I enjoy working with **Flutter & Dart** to create cross-platform apps and use **
   <a href="https://github.com/apandey-dev">
     <img src="https://img.shields.io/badge/GitHub-020617?style=flat&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=apandey-dev&color=0284c7&label=Profile%20Views"/>
+  <img src="https://komarev.com/ghpvc/?username=apandey-dev&color=38BDF8&label=Profile%20Views"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Great apps aren’t just built — they’re crafted.”</i> 🚀
+  <i>“Code is not just logic — it’s the art of building experiences.”</i> ✨
 </p>
 
 <!-- 🌊 FOOTER BANNER -->
