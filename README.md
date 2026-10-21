@@ -1,6 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HEADER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
   <img
@@ -14,7 +12,7 @@
   <br>
   Kotlin · Java · Jetpack Compose
   <br>
-  Flutter · Dart · Node.js · Express.js · DSA in Java
+  Flutter · Dart · DSA in Java · Java Backend
 </p>
 
 <p align="center">
@@ -30,10 +28,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=apandey-dev&style=flat-square&color=0284c7&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=apandey-dev&style=flat-square&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -47,25 +42,23 @@
   />
 </p>
 
-Hi, I'm **Arpit Pandey**, a **BCA Graduate** and **Native Android Developer** focused on building modern, reliable, and user-friendly mobile applications.
+Hi, I'm **Arpit Pandey**, a BCA graduate passionate about building modern, reliable, and user-friendly mobile applications.
 
-My primary development stack is **Kotlin, Java, and Jetpack Compose**. I enjoy working with Android architecture, REST APIs, databases, Firebase, and clean application design.
+My primary focus is **Native Android Development** using Kotlin and Jetpack Compose. I enjoy creating clean user interfaces, working with APIs and databases, and learning modern Android architecture.
 
-I also build cross-platform applications using **Flutter & Dart** and develop backend services using **Node.js & Express.js**.
+I'm also familiar with cross-platform development using Flutter and Dart. Alongside Android, I'm building my foundation in Java, Data Structures & Algorithms, and Java backend development with Spring Boot.
 
-For problem solving, I work with **Data Structures & Algorithms using Java**.
-
-Mobile        →  Android · Kotlin · Java · Jetpack Compose  
-Cross-Platform → Flutter · Dart  
-Backend       →  Node.js · Express.js · REST APIs  
-Database      →  MongoDB · PostgreSQL · MySQL · SQLite · Firebase  
-Problem Solving → DSA · Java
+- <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java&theme=dark" height="18" /> **Mobile:** Android · Kotlin · Java · Jetpack Compose
+- <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="18" /> **Cross-Platform:** Flutter · Dart
+- <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="18" /> **Backend Learning Path:** Java · Spring Boot · REST APIs
+- <img src="https://skillicons.dev/icons?i=sqlite,firebase,postgres,mysql&theme=dark" height="18" /> **Databases:** SQLite · Firebase · PostgreSQL · MySQL
+- <img src="https://skillicons.dev/icons?i=java&theme=dark" height="18" /> **Problem Solving:** DSA in Java
 
 > **Build. Learn. Improve. Repeat.**
 
 ---
 
-<!-- ========================= WHAT I DO ======================== -->
+<!-- ========================= WHAT I DO ========================= -->
 
 <p align="center">
   <img
@@ -75,74 +68,44 @@ Problem Solving → DSA · Java
 </p>
 
 <table>
-<tr>
-
-<td width="25%" valign="top">
-
-### 📱 Native Android
-
-* Kotlin & Java
-* Jetpack Compose
-* Android SDK
-* Modern Android UI
-* REST API integration
-* Firebase
-* Local storage
-* App architecture
-* Performance optimization
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🦋 Flutter
-
-* Flutter & Dart
-* Cross-platform apps
-* Responsive UI
-* Reusable widgets
-* API integration
-* Firebase
-* State management
-* Clean UI implementation
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🌐 Backend
-
-* Node.js
-* Express.js
-* REST API development
-* Authentication
-* API integration
-* MongoDB
-* PostgreSQL
-* Mobile ↔ Backend integration
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🧠 DSA & Programming
-
-* Java
-* Data Structures
-* Algorithms
-* OOP
-* Problem solving
-* Complexity analysis
-* Logical thinking
-
-</td>
-
-</tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h3>🎓 Foundations</h3>
+      <strong>Computer Science</strong><br>
+      Programming<br>
+      Databases<br>
+      Software Fundamentals
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>🧠 Problem Solving</h3>
+      <strong>Java &amp; DSA</strong><br>
+      Core Java<br>
+      OOP<br>
+      Data Structures<br>
+      Algorithms
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>📱 Mobile Development</h3>
+      <strong>Android &amp; Flutter</strong><br>
+      Kotlin<br>
+      Jetpack Compose<br>
+      Android SDK<br>
+      Flutter &amp; Dart
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>🚀 Next Step</h3>
+      <strong>Full-Stack App Development</strong><br>
+      Spring Boot<br>
+      REST APIs<br>
+      SQL Databases<br>
+      Android + Backend Integration
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- ========================= TECH STACK ======================= -->
+<!-- ========================= TECH STACK ========================= -->
 
 <p align="center">
   <img
@@ -158,39 +121,35 @@ Problem Solving → DSA · Java
 </p>
 
 <p align="center">
-  <strong>Kotlin</strong> ·
-  <strong>Java</strong> ·
-  <strong>Jetpack Compose</strong> ·
-  <strong>Android SDK</strong> ·
-  <strong>Android Studio</strong>
+  Kotlin · Java · Jetpack Compose · Android SDK · Android Studio
 </p>
 
 ---
 
-### 🦋 Cross-Platform
+### 🦋 Cross-Platform Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 </p>
 
 <p align="center">
-  <strong>Flutter</strong> ·
-  <strong>Dart</strong>
+  Flutter · Dart
 </p>
 
 ---
 
-### 🌐 Backend
+### ☕ Java Backend — Learning Path
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql&theme=dark" />
 </p>
 
 <p align="center">
-  <strong>Node.js</strong> ·
-  <strong>Express.js</strong> ·
-  <strong>REST APIs</strong> ·
-  <strong>Authentication</strong>
+  Core Java · Spring Boot · REST APIs · Spring Data JPA · Hibernate · Spring Security
+</p>
+
+<p align="center">
+  <em>Currently building my Java foundation before progressing into backend development.</em>
 </p>
 
 ---
@@ -198,7 +157,11 @@ Problem Solving → DSA · Java
 ### 🗄️ Databases & Services
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,mongodb&theme=dark" />
+</p>
+
+<p align="center">
+  PostgreSQL · MySQL · SQLite · Firebase · MongoDB
 </p>
 
 ---
@@ -209,9 +172,13 @@ Problem Solving → DSA · Java
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 </p>
 
+<p align="center">
+  Git · GitHub · VS Code · Postman · Figma
+</p>
+
 ---
 
-<!-- ========================= SKILLS ============================ -->
+<!-- ========================= SKILLS ========================= -->
 
 <p align="center">
   <img
@@ -221,51 +188,43 @@ Problem Solving → DSA · Java
 </p>
 
 <table>
-<tr>
-<th align="left">Area</th>
-<th align="left">Technologies</th>
-</tr>
-
-<tr>
-<td><strong>Android</strong></td>
-<td>Kotlin · Java · Jetpack Compose · Android SDK</td>
-</tr>
-
-<tr>
-<td><strong>Cross-Platform</strong></td>
-<td>Flutter · Dart</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>Node.js · Express.js · REST APIs · Authentication</td>
-</tr>
-
-<tr>
-<td><strong>Programming</strong></td>
-<td>Java · Kotlin · JavaScript · Python</td>
-</tr>
-
-<tr>
-<td><strong>DSA</strong></td>
-<td>Arrays · Strings · Linked Lists · Stacks · Queues · Trees · Searching · Sorting</td>
-</tr>
-
-<tr>
-<td><strong>Databases</strong></td>
-<td>MongoDB · PostgreSQL · MySQL · SQLite · Firebase</td>
-</tr>
-
-<tr>
-<td><strong>Tools</strong></td>
-<td>Git · GitHub · Android Studio · VS Code · Postman · Figma</td>
-</tr>
-
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">Technologies &amp; Concepts</th>
+  </tr>
+  <tr>
+    <td><strong>Android</strong></td>
+    <td>Kotlin · Jetpack Compose · Android SDK · Android Studio</td>
+  </tr>
+  <tr>
+    <td><strong>Cross-Platform</strong></td>
+    <td>Flutter · Dart</td>
+  </tr>
+  <tr>
+    <td><strong>Java &amp; OOP</strong></td>
+    <td>Core Java · Classes · Objects · Inheritance · Interfaces</td>
+  </tr>
+  <tr>
+    <td><strong>Backend Learning</strong></td>
+    <td>Spring Boot · REST APIs · Spring Data JPA · Hibernate · Spring Security</td>
+  </tr>
+  <tr>
+    <td><strong>DSA</strong></td>
+    <td>Arrays · Strings · Searching · Sorting · Linked Lists · Stacks · Queues · Trees · Algorithms</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>SQLite · Firebase · PostgreSQL · MySQL · MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git · GitHub · Android Studio · VS Code · Postman · Figma</td>
+  </tr>
 </table>
 
 ---
 
-<!-- ===================== DEVELOPMENT JOURNEY ================== -->
+<!-- ========================= DEVELOPMENT JOURNEY ========================= -->
 
 <p align="center">
   <img
@@ -275,73 +234,43 @@ Problem Solving → DSA · Java
 </p>
 
 <table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🎓 2023
-
-**BCA Foundations**
-
-Programming
-Computer Science
-Databases
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠 2024
-
-**Java & DSA**
-
-Java
-OOP
-Data Structures
-Algorithms
-
-</td>
-
-<td align="center" width="25%">
-
-### 📱 2025
-
-**Android Development**
-
-Kotlin
-Android SDK
-Jetpack Compose
-Firebase
-REST APIs
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀 2026
-
-**Full Application Development**
-
-Native Android
-Flutter
-Node.js
-Express.js
-REST APIs
-Databases
-
-</td>
-
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🎓 Foundations</h3>
+      <strong>Computer Science</strong><br>
+      Programming<br>
+      Databases<br>
+      Software Fundamentals
+    </td>
+    <td align="center" width="25%">
+      <h3>🧠 Problem Solving</h3>
+      <strong>Java &amp; DSA</strong><br>
+      Core Java<br>
+      OOP<br>
+      Data Structures<br>
+      Algorithms
+    </td>
+    <td align="center" width="25%">
+      <h3>📱 Mobile Development</h3>
+      <strong>Android &amp; Flutter</strong><br>
+      Kotlin<br>
+      Jetpack Compose<br>
+      Android SDK<br>
+      Flutter &amp; Dart
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀 Next Step</h3>
+      <strong>Full-Stack App Development</strong><br>
+      Spring Boot<br>
+      REST APIs<br>
+      SQL Databases<br>
+      Android + Backend Integration
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-  <code>Learn</code>
-  →
-  <code>Build</code>
-  →
-  <code>Explore</code>
-  →
-  <code>Improve</code>
+  <code>Learn</code> → <code>Build</code> → <code>Explore</code> → <code>Improve</code>
 </p>
 
 ---
@@ -363,19 +292,11 @@ Databases
 
 **Focus Areas**
 
-`Mobile Development`
-·
-`DSA`
-·
-`Database Systems`
-·
-`Backend Development`
-·
-`Software Engineering`
+Mobile Development · Data Structures & Algorithms · Database Systems · Backend Development · Software Engineering
 
 ---
 
-<!-- ===================== CURRENTLY EXPLORING ================== -->
+<!-- ========================= CURRENTLY EXPLORING ========================= -->
 
 <p align="center">
   <img
@@ -385,37 +306,21 @@ Databases
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
 
 <p align="center">
-
-`Android Architecture`
-·
-`Jetpack Compose`
-·
-`Clean Architecture`
-·
-`Node.js`
-·
-`REST APIs`
-·
-`MongoDB`
-·
-`DSA`
-
+  Kotlin Fundamentals · Jetpack Compose · Android Architecture · MVVM · Coroutines · StateFlow · Java Fundamentals · DSA in Java · Spring Boot Learning Path
 </p>
 
 ---
 
-<!-- ===================== DEVELOPMENT PHILOSOPHY =============== -->
+<!-- ========================= DEVELOPMENT PHILOSOPHY ========================= -->
 
 <p align="center">
   <img
@@ -425,54 +330,33 @@ Databases
 </p>
 
 <table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🎯
-
-**Purpose**
-
-Build useful solutions.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧹
-
-**Clean**
-
-Readable & maintainable code.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-
-**Performance**
-
-Fast & responsive applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**Experience**
-
-Simple & intuitive interfaces.
-
-</td>
-
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🎯</h3>
+      <strong>Purpose</strong><br>
+      Build useful solutions.
+    </td>
+    <td align="center" width="25%">
+      <h3>🧹</h3>
+      <strong>Clean Code</strong><br>
+      Readable and maintainable code.
+    </td>
+    <td align="center" width="25%">
+      <h3>⚡</h3>
+      <strong>Performance</strong><br>
+      Fast and responsive applications.
+    </td>
+    <td align="center" width="25%">
+      <h3>🎨</h3>
+      <strong>Experience</strong><br>
+      Simple and intuitive interfaces.
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
+<!-- ========================= GITHUB ANALYTICS ========================= -->
 
 <p align="center">
   <img
@@ -482,22 +366,17 @@ Simple & intuitive interfaces.
 </p>
 
 <p align="center">
-
-<img
-height="175"
-src="https://github-readme-stats.shion.dev/api?username=apandey-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-alt="GitHub Stats"
-/>
-
-<img
-height="175"
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=apandey-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-alt="Top Languages"
-/>
-
+  <img
+    height="175"
+    src="https://github-readme-stats.shion.dev/api?username=apandey-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="175"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=apandey-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
----
 
 <p align="center">
   <img
@@ -508,7 +387,7 @@ alt="Top Languages"
 
 ---
 
-<!-- ========================= CONNECT ========================== -->
+<!-- ========================= CONNECT ========================= -->
 
 <p align="center">
   <img
@@ -518,19 +397,15 @@ alt="Top Languages"
 </p>
 
 <p align="center">
-
-<a href="mailto:contact@apandey.me">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/apandey-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/apandey-dev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-020617?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="mailto:contact@apandey.me">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/apandey-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/apandey-dev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-020617?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
